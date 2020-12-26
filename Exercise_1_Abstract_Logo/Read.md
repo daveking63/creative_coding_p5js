@@ -6,4 +6,6 @@ Find an abstract logo that you like and draw it in P5.js. Sharpen your visual se
 
 <h2>Deliverables</h2>
 
-Use p5.js to produce an abstract logo ('that you like'). In this case I've produced the two logos used as examples in the exercise. That is, the 'Instagram' logo and the 'Sony Vaio' logo. In the first case, the logo is created and displayed in steps. With the second logo, only the final version is produced. In both cases a description of the structure and processes used to created the logo is provided at the top of the code listings.
+Use p5.js to produce an abstract logo ('that you like'). Provide a .png file of the example image.
+
+In this case, I've used p5.js to produced the two logos used as examples in the exercise, i.e. the 'Instagram' logo and the 'Sony Vaio' logo. In the first case, the logo is created and displayed in steps. With the second logo, only the final version is produced. Both the code and a couple of .png is provided for each example.
