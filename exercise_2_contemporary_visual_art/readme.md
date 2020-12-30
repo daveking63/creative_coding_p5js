@@ -1,4 +1,10 @@
-This is a rendition of Julian Stanczak 'Constellation Red'. Stanczak was one of the founders and leaders of the Op Art movement A copy of the original is provided at: https:geoform.net/artists/julian-stanczak/. A reproduction is provided in a .png file in this sub-directory. A different rendition ('Constellation in Green') can be found at: https:geoform.net/interviews/an-interview-with-artist-julian-stanczak/
+This is a rendition of Julian Stanczak 'Constellation Red'. Stanczak was one of the founders and leaders of the Op Art movement A copy of the original is provided at:
+
+https:geoform.net/artists/julian-stanczak/
+
+A reproduction is provided in a .png file in this sub-directory. A different rendition ('Constellation in Green') can be found at: 
+
+https:geoform.net/interviews/an-interview-with-artist-julian-stanczak/
 
 From the original version it is easy to see that painting consists of a series of 36 squares. The coloration of each square is a gradation of either 2 or 3 colors -- usually emanating from the center. In the painted version many of the squares appear to consist of grids of smaller squares. This particular feature is not provided in this program.
 
