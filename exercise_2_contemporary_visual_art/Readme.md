@@ -1,4 +1,4 @@
-This is a rendition of Julian Stanczak 'Constellation Red'. Stanczak was one of the founders and leaders of the Op Art movement A copy of the original is provided at:
+This is a rendition of Julian Stanczak 'Constellation in Red'. Stanczak was one of the founders and leaders of the Op Art movement A copy of the original is provided at:
 
 https:geoform.net/artists/julian-stanczak/
 
